@@ -1,2 +1,2 @@
-# landing_page
-Landing Page project from The Odin Project Bootcamp
+# Landing Page
+## Landing Page project from The Odin Project Bootcamp
